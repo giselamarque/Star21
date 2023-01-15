@@ -10,7 +10,7 @@ Users can sign in-sign up/search for their favorite books. Be able to add and/or
 
 ## Future Iterations
 
-Still need to properly define the scheama to define the API.
+Still need to properly define the scheama to structure the API.
 
 ## TESTS
 
